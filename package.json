@@ -49,5 +49,9 @@
   "description": "In aceasta aplicatie este utilizat React.js pentru realizarea interfetei de utilizator si prelucrarea datelor care vin din api-ul de la microsoft.",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "version": "1.0.0",
+  "license": "ISC",
+  "engines": {
+    "node": "14.x"
+  }
 }
